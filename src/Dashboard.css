@@ -1,0 +1,33 @@
+.table{
+    
+        background-color: #e9ebee;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+}
+.list{
+    border: 1px solid white;
+    width: 251px;
+    height: 10%;
+    background-color: #479447d0;
+    
+}
+
+.list1{
+    border: 1px solid white;
+    width: 15%;
+    height: 100vh;
+    background-color: rgba(110, 165, 110, 0.815);
+    color: rgb(66, 58, 58);
+   padding-left: 30px;
+   padding-top: 30px;
+   
+
+    
+}
+
+.tb{
+    align-items: center;
+    
+    justify-items: center;
+}
